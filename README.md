@@ -1,11 +1,11 @@
 <div align="center">
 
-[![_Main_Portal](https://img.shields.io/badge/_Main_Portal-HyperSecurityOffensiveLabs-00FF88?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=0A1628)](https://hypersecurityoffseclabs.great-site.net)
-[![_Forums](https://img.shields.io/badge/_Forums-Community-FF6B35?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=1A0A00)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
-[![_Knowledge_Base](https://img.shields.io/badge/_Knowledge_Base-Library-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=000000&labelColor=001A24)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
-[![_Kronik_v7](https://img.shields.io/badge/_Kronik_Framework-v7_影-FF2D55?style=for-the-badge&logo=rust&logoColor=000000&labelColor=1A0011)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
-[![_OXIDE_v8.5](https://img.shields.io/badge/_OXIDE_Framework-v8.5-FFD700?style=for-the-badge&logo=rust&logoColor=000000&labelColor=1A1200)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
-[![_Telegram](https://img.shields.io/badge/_Telegram-Channel-8A2BE2?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=0E001A)](https://t.me/hypersecurity_offsec)
+[![_Main_Portal](https://img.shields.io/badge/MAIN_PORTAL-HyperSecurityOffensiveLabs-00FF88?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=FF006E)](https://hypersecurityoffseclabs.great-site.net)
+[![_Forums](https://img.shields.io/badge/COMMUNITY_FORUM-Community-FF6B35?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=00D4FF)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
+[![_Knowledge_Base](https://img.shields.io/badge/KNOWLEDGE_BASE-Library-FFD700?style=for-the-badge&logo=readthedocs&logoColor=000000&labelColor=FF006E)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
+[![_Kronik_v7](https://img.shields.io/badge/KRONIK_FRAMEWORK-v7_影-FF2D55?style=for-the-badge&logo=rust&logoColor=000000&labelColor=00FF88)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
+[![_OXIDE_v8.5](https://img.shields.io/badge/OXIDE_FRAMEWORK-v8.5-8A2BE2?style=for-the-badge&logo=rust&logoColor=000000&labelColor=FFD700)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
+[![_Telegram](https://img.shields.io/badge/TELEGRAM_CHANNEL-Community-00D4FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=FF2D55)](https://t.me/hypersecurity_offsec)
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ---
 
-[![_Website](https://img.shields.io/badge/_Website-HyperSec-00FF88?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=0A1628)](https://hypersecurityoffseclabs.great-site.net)
-[![_Telegram](https://img.shields.io/badge/_Telegram-Community-8A2BE2?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=0E001A)](https://t.me/hypersecurity_offsec)
-[![_Forums](https://img.shields.io/badge/_Forums-Community-FF6B35?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=1A0A00)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
+[![_Website](https://img.shields.io/badge/WEBSITE-HyperSec-00FF88?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=FF006E)](https://hypersecurityoffseclabs.great-site.net)
+[![_Telegram](https://img.shields.io/badge/TELEGRAM-Join-00D4FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=FF2D55)](https://t.me/hypersecurity_offsec)
+[![_Forums](https://img.shields.io/badge/FORUMS-Discuss-FF6B35?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=00D4FF)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
 
 **HyperSecurityOffensiveLabs · Secure the future, own the present**
 
