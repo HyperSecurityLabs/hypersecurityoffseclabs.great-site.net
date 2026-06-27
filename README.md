@@ -2,7 +2,7 @@
 
 [![↳_Portal](https://img.shields.io/badge/↳_Portal-・Discover-ebbcba?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=f7f3ed)](https://hypersecurityoffseclabs.great-site.net)
 [![↳_Forums](https://img.shields.io/badge/↳_Forums-・Community-7dcea0?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=f2ede4)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
-[![↳_Knowledge](https://img.shields.io/badge/↳_Knowledge-・Library-9ccfd8?style=for-the-badge&logo=readthedocs&logoColor=000000&labelColor=ece4d9)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
+[![↳_Knowledge](https://img.shields.io/badge/↳_Knowledge-・Library-9ccfd8?style=for-the-badge&logo=readthedocs&logoColor=000000&labelColor=fce8e6)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
 [![↳_Kronik](https://img.shields.io/badge/↳_Kronik-・Exploit-a32c5e?style=for-the-badge&logo=rust&logoColor=000000&labelColor=e8e0d4)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
 [![↳_OXIDE](https://img.shields.io/badge/↳_OXIDE-・Pentest-c4a7e7?style=for-the-badge&logo=rust&logoColor=000000&labelColor=e3dacd)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
 [![↳_OXIDE_CE](https://img.shields.io/badge/↳_OXIDE_CE-・Discuss-5cb87a?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=a8e6cf)](https://t.me/OXideElitev7Dicuss)
