@@ -6,7 +6,7 @@
 [![↳_Kronik](https://img.shields.io/badge/↳_Kronik-・Exploit-a32c5e?style=for-the-badge&logo=rust&logoColor=000000&labelColor=e8e0d4)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
 [![↳_OXIDE](https://img.shields.io/badge/↳_OXIDE-・Pentest-c4a7e7?style=for-the-badge&logo=rust&logoColor=000000&labelColor=e3dacd)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
 [![↳_OXIDE_CE](https://img.shields.io/badge/↳_OXIDE_CE-・Discuss-5cb87a?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=a8e6cf)](https://t.me/OXideElitev7Dicuss)
-[![↳_Rust](https://img.shields.io/badge/↳_Rust-・Language-000000?style=for-the-badge&logo=rust&logoColor=000000&labelColor=f5eee6)](https://www.rust-lang.org)
+[![↳_Rust](https://img.shields.io/badge/↳_Rust-・Language-ff7f00?style=for-the-badge&logo=rust&logoColor=000000&labelColor=f5eee6)](https://www.rust-lang.org)
 [![↳_Telegram](https://img.shields.io/badge/↳_Telegram-・Join-ffffff?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=ded4c6)](https://t.me/hypersecurity_offsec)
 
 ---
