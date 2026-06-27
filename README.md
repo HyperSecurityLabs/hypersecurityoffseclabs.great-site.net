@@ -1,11 +1,11 @@
 # HyperSecurityOffensiveLabs
 
-[![↳_Portal](https://img.shields.io/badge/↳_Portal-・Discover-ebbcba?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=00261a)](https://hypersecurityoffseclabs.great-site.net)
-[![↳_Forums](https://img.shields.io/badge/↳_Forums-・Community-f6c177?style=for-the-badge&logo=discourse&logoColor=ffffff&labelColor=003320)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
-[![↳_Knowledge](https://img.shields.io/badge/↳_Knowledge-・Library-9ccfd8?style=for-the-badge&logo=readthedocs&logoColor=ffffff&labelColor=004028)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
-[![↳_Kronik](https://img.shields.io/badge/↳_Kronik-・Exploit-eb6f92?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=001a11)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
-[![↳_OXIDE](https://img.shields.io/badge/↳_OXIDE-・Pentest-c4a7e7?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=002114)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
-[![↳_Telegram](https://img.shields.io/badge/↳_Telegram-・Join-31748f?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=004d30)](https://t.me/hypersecurity_offsec)
+[![↳_Portal](https://img.shields.io/badge/↳_Portal-・Discover-ebbcba?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=1f1d2e)](https://hypersecurityoffseclabs.great-site.net)
+[![↳_Forums](https://img.shields.io/badge/↳_Forums-・Community-f6c177?style=for-the-badge&logo=discourse&logoColor=ffffff&labelColor=26233a)](https://hypersecurityoffseclabs.great-site.net/forums/index.php)
+[![↳_Knowledge](https://img.shields.io/badge/↳_Knowledge-・Library-9ccfd8?style=for-the-badge&logo=readthedocs&logoColor=ffffff&labelColor=403d52)](https://hypersecurityoffseclabs.great-site.net/posts/index.html)
+[![↳_Kronik](https://img.shields.io/badge/↳_Kronik-・Exploit-eb6f92?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=191724)](https://hypersecurityoffseclabs.great-site.net/posts/kronik.html)
+[![↳_OXIDE](https://img.shields.io/badge/↳_OXIDE-・Pentest-c4a7e7?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=21202e)](https://hypersecurityoffseclabs.great-site.net/posts/oxide-v8.5.0.html)
+[![↳_Telegram](https://img.shields.io/badge/↳_Telegram-・Join-31748f?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=524f67)](https://t.me/hypersecurity_offsec)
 
 ---
 
